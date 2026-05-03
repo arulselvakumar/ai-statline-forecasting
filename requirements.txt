@@ -1,0 +1,11 @@
+nba_api
+pandas
+pyarrow
+scikit-learn
+matplotlib
+seaborn
+jupyter
+wandb
+xgboost
+streamlit
+joblib

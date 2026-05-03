@@ -1,0 +1,21 @@
+# environments
+.venv/
+venv/
+notebooks/.venv/
+
+# notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints
+
+# python cache
+__pycache__/
+*.pyc
+
+# large data/model files
+*.parquet
+*.pkl
+*.csv
+
+# OS/system
+.DS_Store
+Thumbs.db
