@@ -58,3 +58,11 @@ The system follows an AI pipeline:
 
 ```bash
 pip install -r requirements.txt
+```
+
+### Run Streamlit Demo
+
+After installing dependencies, run the deployment app from the project root:
+
+```bash
+streamlit run deployment/app.py
